@@ -8,7 +8,7 @@ A **beginner-friendly**, command-line based **Open Source Intelligence (OSINT)**
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/osint-toolkit.git
+   git clone https://github.com/snoopysugar/OSINT_Recon_Tool.git
    cd OSINT
    ```
 
